@@ -1,0 +1,2 @@
+# Custom configuration
+project.version: @project.version@
